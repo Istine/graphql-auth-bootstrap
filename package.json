@@ -1,0 +1,29 @@
+{
+  "name": "graphql-auth-bootstrap",
+  "version": "1.0.0",
+  "description": "Quick to set up and reusable authentication code for a Node-Graphq-Postgres system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Istine/graphql-auth-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Istine/graphql-auth-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Istine/graphql-auth-bootstrap#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "nodemon": "^2.0.15",
+    "typescript": "^4.5.3"
+  },
+  "dependencies": {
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.1.0"
+  }
+}
